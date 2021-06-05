@@ -1,0 +1,43 @@
+body {
+    background: gray;
+    margin: 0;
+}
+
+.ty {
+    width: 40%;
+    height: 100px;
+    background: grey;
+    margin: 0;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20%;
+}
+
+label {
+    margin-left: 20%;
+    margin-top: 30%;
+}
+
+input {
+    margin-top: 3%;
+}
+
+button {
+    margin-left: 1px;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 2px;
+    column-gap: 20px;
+}
+
+img {
+    width: 10%;
+    height: auto;
+}
